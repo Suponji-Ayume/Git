@@ -1,1 +1,3 @@
 I Love C++!
+
+I Love C++ too!
